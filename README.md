@@ -37,3 +37,9 @@ Follow these steps to get the development environment set up:
    ```bash
    python manage.py runserver
    ```
+
+## Test code quality
+You can test the code quality in the project with linter flake8:
+   ```bash
+   flake8
+   ```
