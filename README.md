@@ -43,3 +43,6 @@ You can test the code quality in the project with linter flake8:
    ```bash
    flake8
    ```
+
+## Postman Collection
+You can check the postman API collection by the [link](https://www.postman.com/maintenance-participant-45803664/spy-cat-agency-api/collection/8t2p349/rest-api-basics-crud-test-variable)
