@@ -1,2 +1,39 @@
-# Spy-Cat-Agency
-CRUD app for managing Spy Cats, Missions, and Targets for the Spy Cat Agency, built with Django REST Framework
+# Spy Cat Agency
+
+Welcome to the Spy Cat Agency project! This project is a Django-based web application designed for managing a fictional spy agency with various features.
+
+## Features
+
+- Database models for agents, missions
+- REST API endpoints for managing agency data
+
+## Installation
+
+Follow these steps to get the development environment set up:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Illya-Maznitskiy/Spy-Cat-Agency.git
+   cd Spy-Cat-Agency
+   ```
+2. **Create venv:**
+   ```bash
+   python -m venv venv
+   ```
+3. **Activate the virtual environment:**
+   On Windows:
+   ```bash
+   venv\Scripts\activate
+   ```
+   On macOS/Linux:
+   ```bash
+   source venv/bin/activate
+   ```
+4. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. **Run the server:**
+   ```bash
+   python manage.py runserver
+   ```
